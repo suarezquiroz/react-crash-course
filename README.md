@@ -6,7 +6,7 @@ Made step by step following Traversy Media's [React JS Crash Course](https://www
 
 ## Differences with the video course
 
-- Used [Axios API](https://github.com/axios/axios) instead of [JQuery] (https://github.com/jquery/jquery) for the HTTP Requests
+- Used [Axios API](https://github.com/axios/axios) instead of [JQuery](https://github.com/jquery/jquery) for the HTTP Requests
 - Kept the delete option for the to-do items
 
 ## Create React App
